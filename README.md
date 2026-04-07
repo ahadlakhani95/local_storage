@@ -1,17 +1,65 @@
-# ala3
+Flutter Local Storage App
 
-A new Flutter project.
+This Flutter application demonstrates local data storage using SharedPreferences.
+The app allows users to store, retrieve, update, and delete data locally on the device.
 
-## Getting Started
+📱 Features
+Store data locally using SharedPreferences
+Retrieve saved data
+Update existing data
+Delete stored data
+Simple and user-friendly UI
+🛠️ Technologies Used
+Flutter
+Dart
+SharedPreferences (Local Storage)
+Android Studio / VS Code
+📂 Project Structure
+lib/
+ └── main.dart
 
-This project is a starting point for a Flutter application.
+pubspec.yaml
+README.md
+🚀 How the App Works
+User enters text in the TextField
+Click Save Data → Data stored locally
+Click Read Data → Data displayed on screen
+Click Update Data → Existing data updated
+Click Delete Data → Data removed from local storage
+📸 Output Screens
+Enter Data Screen
+Save Data
+Read Data
+Update Data
+Delete Data
 
-A few resources to get you started if this is your first Flutter project:
+(You can add screenshots here)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+🔧 Installation Steps
+Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+Open project in Flutter
+cd project-folder
+Get dependencies
+flutter pub get
+Run the app
+flutter run
+🎯 Objective
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To develop a Flutter application with local data storage demonstrating storing, retrieving, updating, and deleting data using SharedPreferences.
+Output:
+<img width="1365" height="766" alt="image" src="https://github.com/user-attachments/assets/fee31a2e-d4fc-490b-8672-7c65713e48a3" />
+
+📌 ALA Submission Details
+Subject: Flutter Development
+Type: Individual Assignment
+Storage Used: SharedPreferences
+IDE: Android Studio
+Language: Dart
+
+
+👨‍💻 Author
+Name: ahad lakhani
+Enrollment No: 240905041020
+Course: CE
+College: GMIU
