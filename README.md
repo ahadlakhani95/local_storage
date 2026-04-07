@@ -33,7 +33,7 @@ Read Data
 Update Data
 Delete Data
 
-(You can add screenshots here)
+
 
 🔧 Installation Steps
 Clone the repository
